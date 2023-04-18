@@ -1,8 +1,0 @@
-.navigation a:hover{
-    text-decoration: underline;
-}
-.navigation {
-    display: flex;
-    flex-direction: row;
-    gap: 20px;
-}
