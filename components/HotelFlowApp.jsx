@@ -495,7 +495,7 @@ export default function HotelFlowApp() {
             </div>
             <div>
               <div style={{ fontWeight: 700, fontSize: 14, color: "#fff", marginBottom: 14 }}>{L.footerDev}</div>
-              <a href="http://fakumax.dev/" target="_blank" rel="noreferrer" className="hf-navlink" style={{ fontSize: 13.5, padding: "6px 0", color: "#60a5fa", textDecoration: "none", display: "inline-block", fontWeight: 600 }}>fakumax.dev →</a>
+              <a href="http://fakumax.dev/" target="_blank" rel="noreferrer" className="hf-navlink" style={{ fontSize: 13.5, padding: "6px 0", color: "#60a5fa", textDecoration: "none", display: "inline-block", fontWeight: 600 }}>fakumax.dev</a>
             </div>
           </div>
           <div style={{ height: 1, background: "rgba(255,255,255,.1)", margin: "34px 0 20px" }} />
